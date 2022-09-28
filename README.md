@@ -7,4 +7,4 @@ This repository contains the Project 2 (Grocery App) which was assigned as a int
 
 [Google Developers Profile](https://g.dev/sharves)
 
-[Project Demo](https://youtu.be/6JTX0Grt46M)
+[Project Demo](https://www.youtube.com/watch?v=6JTX0Grt46M)
